@@ -1,0 +1,13 @@
+# Exclude vs stuff
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+.vs
+
+# Exclude Debug
+Debug
+
+# Exclude binaries
+bin
+app/*.dll
